@@ -1,0 +1,10 @@
+import Cocoa
+
+//var str = "Yeah Yeah, hi, whatever!"
+func sayMyNameSayMyNAme(){
+//var vars. let constants
+let fname = "j"
+let lname = "k"
+print(fname, lname)
+}
+sayMyNameSayMyNAme()
