@@ -1,4 +1,3 @@
-# schwifty
+# macos swift
 
 getting schwifty
-
